@@ -9,7 +9,7 @@ If an idea pops into my head, chances are I'll build it and ship it.
 I've built over 24 repos but are private.
 <br>
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 BSc Honours Computer Science student  
 - ☁️ AWS Certified Solutions Architect – Associate
