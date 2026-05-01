@@ -1,55 +1,50 @@
-## Hi there 👋
+# 👋 Hey, I’m Digant Suwal
 
-I'm Digant Suwal, <br>
-<i> Aspiring Cloud Data Engineer | AWS Certified Solutions Architect & ML Associate </i>
+### **Cloud Data & ML Engineer | AWS Triple Certified (SAA, DEA, MLS)**
 
-I build scalable data pipelines and cloud infrastructure. I’m currently obsessing over how to make data more accessible and reliable using AWS and modern data stacks.
-If an idea pops into my head, chances are I'll build it and ship it.
-<br>
-I've built over 24 repos but are private.
-<br>
+I architect and implement scalable data systems on AWS. My focus is on the entire data lifecycle: from high-throughput ingestion and transformation to production-grade ML deployment. I don't just write code; I design resilient, cost-optimized cloud architectures.
 
-##  About Me
+---
 
-- 🎓 BSc Honours Computer Science student  
-- ☁️ AWS Certified Solutions Architect – Associate
-- ☁️ AWS Certified Machine Learning Engineer – Associate 
-- 📊 Learning Data Engineering & Cloud Infrastructure  
-- 🤖 Interested in AI & Machine Learning Systems  
-- 🌏 Based in Nepal
-<br> 
+### 🚀 **Professional Certifications**
+* **AWS Certified Solutions Architect – Associate** (SAA-C03)
+* **AWS Certified Data Engineer – Associate** (DEA-C01)
+* **AWS Certified Machine Learning Engineer – Associate** (ML-C03)
 
-## 🛠 Tech Stack
+---
 
-**Languages:**  
-Java | Python | SQL  
+### 🧠 **Engineering Focus**
+* **Data Pipelines:** Designing end-to-end batch and streaming ETL/ELT workflows using **AWS Glue** and **Kinesis**.
+* **Storage & Analytics:** Architecting modern data stacks with **S3 Data Lakes**, **Redshift**, and **Athena**.
+* **MLOps:** Automating the ML lifecycle, from feature engineering to model monitoring on AWS.
+* **Cloud Ops:** Leveraging **Terraform** and **CloudFormation** for Infrastructure as Code (IaC).
 
-**Cloud & DevOps:**  
-AWS | Terraform | CloudFormation  
+---
 
-**Data:**  
-Pandas | NumPy | ETL Concepts  
+### 🛠 **Tech Stack**
 
-**Tools:**  
-Git | Linux | Docker  
-<br> 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, Java |
+| **AWS Services** | S3, Redshift, Glue, Lambda, Kinesis, Bedrock, SageMaker |
+| **Infrastructure** | Terraform, CloudFormation, Docker, Linux |
+| **Data Tools** | Pandas, NumPy, ETL Orchestration, Data Warehousing |
 
-## 🎯 Current Focus
+---
 
-- Deepening AWS & Cloud Architecture knowledge  
-- Building Data Engineering portfolio projects  
-- Preparing for advanced AI/ML systems  
-<!--
-**suwaldigant21/suwaldigant21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📌 **Current Engineering Goals**
+* **Advanced Orchestration:** Mastering **Apache Airflow** for complex pipeline management.
+* **Real-time Processing:** Deepening expertise in **Kafka** and **Spark Streaming**.
+* **Production Architectures:** Building and documenting "Level 300" AWS projects to bridge the gap between theory and scale.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 **Featured Projects**
+> *Note: I am currently refactoring several private repositories to meet production-level documentation standards. Key projects will be released below shortly.*
+
+
+---
+
+### 🤝 **Connect with Me**
+* **LinkedIn**: https://www.linkedin.com/in/digantsuwal/
+* **Location**: Based in Nepal 🌏
