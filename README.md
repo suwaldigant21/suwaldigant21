@@ -40,8 +40,7 @@ I architect and implement scalable data systems on AWS. My focus is on the entir
 ---
 
 ### 📂 **Featured Projects**
-> *Note: I am currently refactoring several private repositories to meet production-level documentation standards. Key projects will be released below shortly.*
-
+> https://github.com/suwaldigant21/sql-data-warehouse-project
 
 ---
 
