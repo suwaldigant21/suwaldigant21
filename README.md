@@ -41,7 +41,7 @@ I architect and implement scalable data systems on AWS. My focus is on the entir
 
 ### 📂 **Featured Projects**
 > https://github.com/suwaldigant21/sql-data-warehouse-project
-
+> https://github.com/suwaldigant21/CareMatrix_Healthcare_Data_Lakehouse-MLOps_Pipeline
 ---
 
 ### 🤝 **Connect with Me**
